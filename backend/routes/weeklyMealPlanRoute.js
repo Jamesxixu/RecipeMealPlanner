@@ -9,7 +9,7 @@ const {
     generateHelperInstructions,
     getMeatRecommendations
 } = require('../controllers/weeklyMealPlanController');
-const { protect } = require('../middleware/authMiddleware');
+const protect = require('../middleware/authMiddleware');
 
 // Weekly meal plan routes
 router.route('/')
