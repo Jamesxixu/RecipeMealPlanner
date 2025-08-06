@@ -1,13 +1,13 @@
 require('dotenv').config();
 const mongoose = require('mongoose');
 
-const connectToDB = ()=>{
+const connectToDB = async ()=>{
     try{
-        mongoose.connect(process.env.ATLAS_URI);
+        await mongoose.connect(process.env.ATLAS_URI);
         console.log('Database Connected');
     }
     catch(e){
-        console.log(e);
+        console.log('Database connection failed - running without database:', e.message);
     }
 }
 module.exports = connectToDB;
