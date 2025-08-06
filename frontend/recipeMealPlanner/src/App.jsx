@@ -11,6 +11,7 @@ import ShoppingList from './components/path/ShoppingList';
 import Kitchen from './components/path/Kitchen';
 import RecipeDetail from './components/path/RecipeDetail';
 import Profile from './components/path/Profile';
+import MealPlanner from './components/path/MealPlanner';
 
 
 
@@ -30,6 +31,7 @@ function App() {
           <Route path='/Dashboard/shoppinglist' element = {<ShoppingList/>}/>
           <Route path='/Dashboard/mykitchen' element={<Kitchen/>}/>
           <Route path='/Dashboard/recipes/:recipeId' element={<RecipeDetail/>}/>
+          <Route path='/Dashboard/meal-planner' element={<MealPlanner/>}/>
           <Route path='/profile' element={<Profile />}/>
         </Routes>
       </AuthProvider>

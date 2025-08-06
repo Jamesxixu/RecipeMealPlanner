@@ -1,16 +1,26 @@
-Recipe Meal Planner 
+Enhanced Recipe Meal Planner with Helper Instructions 🍽️
 
 Overview:
-The Recipe Meal Planner is an application designed to help users efficiently manage and organize their favorite recipes. Users can browse and save recipes, create shopping lists based on selected meals, and keep track of their kitchen inventory. This tool is perfect for saving time and simplifying meal planning by providing an easy way to plan meals and ensure that the necessary ingredients are always on hand.
+The Enhanced Recipe Meal Planner is a comprehensive application designed to help users efficiently manage meal preparation with their helpers. The app provides meat-based meal recommendations, generates twice-weekly grocery lists, creates detailed helper instructions, and includes a visual weekly meal planner. This tool is perfect for households with cooking helpers, making meal planning and instruction generation seamless and efficient.
 
 Features:
-Browse All Recipes: Users can explore a wide selection of recipes.
-Add and Store Favorite Recipes: Save your favorite recipes for quick access anytime.
-View Recipe Details: Get detailed information about each recipe, including ingredients, instructions, and videos.
-Add Items to the Shopping List: Easily add ingredients from recipes to your shopping list.
-Track Kitchen Inventory: Users can add and manage items in their kitchen to keep track of available ingredients.
-Secure User Accounts: Users can log in securely, update their information, and delete their account if needed.
-User-Friendly Interface: The app is designed with a simple, intuitive interface, making it easy for users to navigate and plan their meals efficiently.
+
+### 🆕 NEW - Helper Instruction Features:
+- 🥩 **Meat-Based Meal Recommendations**: Balanced meal suggestions starting with common meat types (Chicken, Beef, Fish, etc.)
+- 🛒 **Twice-Weekly Shopping Lists**: Smart grocery lists optimized for Tuesday and Saturday shopping trips
+- 📋 **Helper Instructions Generator**: Copy-paste ready instructions for your cooking helper with timing and tips
+- 📅 **Weekly Meal Planner**: Visual calendar for organizing meals and tracking nutritional goals
+- ⚖️ **Balanced Nutrition**: Each recommendation includes vegetables, carbohydrates, and proper seasoning
+- 📱 **Copy & Share**: Easy export of instructions via clipboard, email, or download
+
+### 📚 Original Features:
+- Browse All Recipes: Users can explore a wide selection of recipes
+- Add and Store Favorite Recipes: Save your favorite recipes for quick access anytime
+- View Recipe Details: Get detailed information about each recipe, including ingredients, instructions, and videos
+- Add Items to the Shopping List: Easily add ingredients from recipes to your shopping list
+- Track Kitchen Inventory: Users can add and manage items in their kitchen to keep track of available ingredients
+- Secure User Accounts: Users can log in securely, update their information, and delete their account if needed
+- User-Friendly Interface: The app is designed with a simple, intuitive interface, making it easy for users to navigate and plan their meals efficiently
 
 Demo
 A live demo of the application can be found here. 
