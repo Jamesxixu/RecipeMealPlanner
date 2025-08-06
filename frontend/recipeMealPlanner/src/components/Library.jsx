@@ -24,6 +24,7 @@ function Library() {
         <aside className='sideDiv'>
             <div className='myLibrary'>
                 <Link to='/Dashboard/recipes' className='item'>Home</Link>
+                <Link to='/Dashboard/meal-planner' className='item'>🍽️ Meal Planner</Link>
                 <div className='item libraryText'>My Library</div>
                 <Link to='/Dashboard/myrecipes' className='item'>My Recipes</Link>
                 <Link to='/Dashboard/shoppinglist' className='item'>Shopping List</Link>
